@@ -8,7 +8,7 @@ main()
 {
   std::string name;
   std::cout << "Enter name:";
-  std::cin >> name;                                      // inputm45^6.#:
-  std::cout << "Hello world from " << name << std::endl; // outputdfeee*
+  std::cin >> name;                                      // input
+  std::cout << "Hello world from " << name << std::endl; // output
   return 0;
 }
